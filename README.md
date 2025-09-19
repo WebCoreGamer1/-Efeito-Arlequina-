@@ -1,2 +1,4 @@
-# -Efeito-Arlequina-
-&lt;Espelho das Contradições Humanas
+<#Efeito-Arlequina
+<Espelho das Contradições Humanas
+<Arlequina a Psicopata
+<
