@@ -1,6 +1,6 @@
 <#Efeito-Arlequina
 <Espelho das Contradições Humanas
 <Arlequina a Psicopata
-<CORA{VISA} 
+<CORA={VISA} 
 <Defesnser XDR
 <
