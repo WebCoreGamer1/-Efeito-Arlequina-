@@ -1,8 +1,8 @@
 <#Efeito-Arlequina
 <Espelho das Contradições Humanas
 <Arlequina a Psicopata
-<Defenser XDR
+<Defenser-XDR
 </ignore
 <Black_Fox
 <--
-<
+
